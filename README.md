@@ -1,5 +1,4 @@
-# finalproject
-## KKBOX OpenAPI Application
+# KKBOX OpenAPI Application
 ## Build process 
 ### Environment
 * python3.7.8
